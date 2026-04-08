@@ -15,11 +15,11 @@ Introduction to using git and GitHub. Will lead you through your first fork, clo
 1. Open your command line (Git Bash on Windows, Terminal on Mac).
 1. Create a new directory where you will store repositories for this course. By default this will be in your home directory, but you can choose to put it elsewhere if you like. Run the below command to make a directory named `sdev301`.
     ```
-    mkdir sdev301
+    mkdir cs123
     ```
 1. Move into this new directory using the `cd` command:
     ```
-    cd sdev301
+    cd cs123
     ```
 1. Keep your terminal window open, we will return to it in a moment.
 
